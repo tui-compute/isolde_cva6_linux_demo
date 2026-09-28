@@ -1,6 +1,6 @@
 [submodule "cva6"]
 	path = cva6
-	url = .../cva6-sdk
+	url = git@github.com:speedXro/cva6-sdk.git
 	branch = tuiacc_isolde_demo
 [submodule "cva6-sdk"]
 	path = cva6-sdk
