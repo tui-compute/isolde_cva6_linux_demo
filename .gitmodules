@@ -1,6 +1,6 @@
 [submodule "cva6"]
 	path = cva6
-	url = ./cva6
+	url = .../cva6-sdk
 	branch = tuiacc_isolde_demo
 [submodule "cva6-sdk"]
 	path = cva6-sdk
